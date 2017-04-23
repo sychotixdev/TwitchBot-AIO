@@ -1,0 +1,13 @@
+Copyright (C) 2012 Tomas Drbota
+Feel free to contact me at argoneuscze@gmail.com if you have any questions or problems.
+
+This is an IRC bot that tracks online streams you give it working on several services including Own3d.tv and Twitch.tv.
+
+To see example config files which you need to create and put in the same folder as the executable, see 'Examples' folder.
+
+Some of the command answers are hardcoded and you need to change those yourself.
+
+For this to run you need the following libraries:
+
+ - HtmlAgilityPack (http://htmlagilitypack.codeplex.com)
+ - SmartIrc4net (http://www.meebey.net/projects/smartirc4net)

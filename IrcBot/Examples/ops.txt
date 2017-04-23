@@ -1,0 +1,6 @@
+[SuperOperators]
+TheMaster
+
+[Operators]
+SomeFriend
+SomeoneElse
